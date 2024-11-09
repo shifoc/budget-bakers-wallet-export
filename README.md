@@ -1,5 +1,4 @@
 # budget-bakers-wallet-export
-Web Scraping Wallet Records
 This script is designed to scrape wallet records from a webpage, extract details such as category, account, description, amount, date, and currency, and then save the data into a CSV file.
 
 > [!CAUTION] 
